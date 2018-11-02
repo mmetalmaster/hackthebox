@@ -33,7 +33,7 @@ Wait, what is that black rectangle in the bottom part of the image? Hmm.. Let's 
 
 Stegsolve is a stegano solver for challenges. One of its main functions is a quick view of different bit planes and some simple transformations.
 
-**Colour Inversion (XOR)**
+**Colour Inversion (XOR)**<br>
 <img src="colour-inversion-xor.png">
 
 Oh, God! That's creepy!
