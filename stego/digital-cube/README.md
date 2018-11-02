@@ -24,7 +24,7 @@ So the title of the challenge is `Digital Cube` and the challenge description ga
 
 What if this challenge is some kind of ASCII ART? Right? Cube has a perfect width and height, and 50:50 is a perfect ratio.
 
-Let's try validate it by form 50 characters per line for 50 lines..
+Let's try to validate it by forming it.. Let say 50 characters per line for 50 lines..
 
 <img src="qr-ascii.png">
 
