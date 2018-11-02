@@ -38,22 +38,22 @@ Stegsolve is a stegano solver for challenges. One of its main functions is a qui
 
 Oh, God! That's creepy!
 
-**Red Plane**
+**Red Plane**<br>
 <img src="red-plane.png">
 
 Okay.
 
-**Green Plane**
+**Green Plane**<br>
 <img src="green-plane.png">
 
 Okay..
 
-**Blue Plane**
+**Blue Plane**<br>
 <img src="blue-plane.png">
 
 Okay...
 
-**Random Colour Map**
+**Random Colour Map**<br>
 <img src="random-color-map.png">
 
 Finally!
