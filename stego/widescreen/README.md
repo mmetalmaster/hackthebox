@@ -54,6 +54,6 @@ Okay..
 Okay...
 
 **Random Colour Map**
-<img src="random-colour-map.png">
+<img src="random-color-map.png">
 
 Finally!
