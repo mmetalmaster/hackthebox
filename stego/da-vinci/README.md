@@ -144,7 +144,7 @@ Archive:  famous.zip
 
 Great! We just got this image named `Mona.jpg`.
 
-<img src="Mona.jpg">
+<img src="_monalisa.jpg.extracted/Mona.jpg">
 
 Next step is to `binwalk` that image.
 
