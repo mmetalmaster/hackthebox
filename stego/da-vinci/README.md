@@ -165,7 +165,7 @@ $ strings Mona.jpg | awk 'length($0) > 10'
 RIR^M}g.'>_
 ```
 
-Uhmm.. We haven't used `TOM` yet. Maybe we can use `steghide` and use `TOM` as password to extract hidden files.
+Uhmm.. Maybe we can use `steghide` and use `TOM` as password to extract hidden files.
 
 ```
 $ steghide extract -sf Mona.jpg -p TOM
