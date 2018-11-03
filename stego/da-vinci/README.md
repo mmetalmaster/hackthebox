@@ -64,7 +64,7 @@ https://www.youtube.com/watch?v=jc1Nfx4c5LQ
 
 Wait.. what?! A YouTube Link? 
 
-<img src="youtube.jpg">
+<img src="youtube.png">
 
 Playing the video will prompts us `Picasso's Guernica` and the title of that video is `Guernica 3D`.
 
