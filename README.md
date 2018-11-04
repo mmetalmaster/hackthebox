@@ -32,7 +32,7 @@
 | Mission Impossible | 90 | :disappointed_relieved: | |
 | Please, don't share! | 80 | :disappointed_relieved: | |
 
-**Steganography 12/17**
+**Steganography 13/17**
 
 | Title | Points | Status | WriteUp |
 | :---: | :---: | :---: | :---: |
@@ -50,7 +50,7 @@
 | Unified | 20 | :wink: | [link](https://github.com/ajdumanhug/hackthebox/tree/master/stego/unified) |
 | Pusheen Loves Graphs | 30 | :wink: | [link](https://github.com/ajdumanhug/hackthebox/tree/master/stego/pusheen-loves-graphs) |
 | Retro | 50 | :wink: | TBD | 
-| Senseless Behaviour | 50 | :disappointed_relieved: | |
+| Senseless Behaviour | 50 | :wink: | [link](https://github.com/ajdumanhug/hackthebox/tree/master/stego/senseless-behaviour) |
 | Not Art | 70 | :disappointed_relieved: | |
 | Massacre | 100 | :disappointed_relieved: | |
 
