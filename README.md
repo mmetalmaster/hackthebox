@@ -1,4 +1,5 @@
-# hackthebox
+# Hack The Box
+[Hack The Box](https://www.hackthebox.eu) is an online platform allowing you to test and advance your skills in cyber security.
 
 **Reversing 4/10**
 
